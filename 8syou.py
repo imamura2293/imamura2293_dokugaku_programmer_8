@@ -16,11 +16,14 @@ statistics.median(nums)
 statistics.mode(nums)
 
 import keyword
+
 keyword.iskeyword("for")
 keyword.iskeyword("football")
 
+
 def print_hello():
-	print_("Hello")
+    print_("Hello")
+
 
 import hello
 
@@ -29,12 +32,11 @@ hello.print_hello()
 # code in module1
 print("Hello")
 
-#code in module2
+# code in module2
 import module1
+
 if __name__ == "__main__":
-	print("Hello")
+    print("Hello")
 
 # code in module2
 import hello
-
-
