@@ -19,8 +19,7 @@ def collect_songs():
             break
 
         if genre == "p":
-            p
-            input(song)
+            p = input(song)
             po.append
 
         elif genre == "j":
@@ -35,3 +34,79 @@ def collect_songs():
 
 
 collect_songs()
+
+a = 0
+
+
+def incremant():
+    global a
+    a += 1
+
+
+def increment(a):
+    return a + 1
+
+
+class Orange:
+    de__init__(self):
+    print("Created!")
+
+class Orange:
+    def__init__(self,w,c):
+    self.weight=w
+    self.color=c
+
+    print("Created!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
