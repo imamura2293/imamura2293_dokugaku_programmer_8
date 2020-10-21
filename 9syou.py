@@ -51,62 +51,44 @@ class Orange:
     de__init__(self):
     print("Created!")
 
+
 class Orange:
-    def__init__(self,w,c):
-    self.weight=w
-    self.color=c
+    def__init__(self, w, c):
+    self.weight = w
+    self.color = c
 
     print("Created!")
 
 
+class Orange:
+    def__init__(self, w, c):
+    self.weight = w
+    self.color = c
+    print("Created!")
 
+class Orange:
+    def__init__(self, w, c):
+    self.weight = w
+    self.color = c
+    print("Created!")
 
+or1 = Orange(10,"dark orange")
+print(or1)
 
+class Orange:
+    def__init__(self,w,c):
+    self.weight=w
+    self.color =c
+    print(Created!)
+or1 = Orange(10,"dark orange")
+print(or1.weight)
+print(or1.color)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    class Orange:
+        def__init__(self, w, c):
+        self.weight = w
+        self.color = c
+        print(Created!)
+        or1 = Orange(10, "dark orange")
+        print(or1.weight)
+        print(or1.color)
